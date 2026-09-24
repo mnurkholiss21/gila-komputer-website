@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Gila Komputer / Bikin performa terasa.",
+  title: "Gila Komputer / Bikin performa ngacirr.",
   description: "Komponen komputer pilihan, PC builder online, dan bantuan rakit dari Gila Komputer.",
 };
 
